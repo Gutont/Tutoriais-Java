@@ -9,8 +9,6 @@
 - O código-fonte em Java é primeiro compilado em bytecode.
 - Em seguida, a Máquina Virtual Java (JVM) compila o bytecode para o código de máquina.
 
-<img src="https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-1/base64.png" alt="">
-
 ## Instalação do Java:
 
 ### Passo 1: Baixando o JDK
@@ -36,10 +34,5 @@
 - Clique no botão **"Next"** para instalar o IntelliJ IDEA no local padrão.
 - Não se esqueça de marcar **"Adicionar diretório de lançadores ao PATH,"** conforme mostrado na imagem abaixo.
 
-<img src="https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-1/Idea_installation.png" alt="">
 
 - Depois disso, clique no botão "Next" e, em seguida, clique no botão **"Install"**.
-
-### Notas Manuscritas: [Clique para Baixar](https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-1/IntroToJava.pdf)
-
-### Folha de Dicas Definitiva do Java: [Clique para Baixar](https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-1/UltimateJavaCheatSheet.pdf)
