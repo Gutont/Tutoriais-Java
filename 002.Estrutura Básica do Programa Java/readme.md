@@ -36,7 +36,3 @@ public class Main {   // Ponto de entrada da aplicação
 - Para classes, usamos a Convenção Pascal. A primeira e as subsequentes letras de uma palavra são maiúsculas (uppercase).
 - Exemplo: Main, MyScanner, MyEmployee, CodeWithHarry
 - Para funções e variáveis, usamos a Convenção camelCase. Aqui, a primeira letra é minúscula, e as subsequentes são maiúsculas, como myScanner, myMarks, CodeWithHarry
-
-### Notas Manuscritas: [Clique para Baixar](https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-2/IntroToJava.pdf)
-
-### Folha de Dicas Definitiva do Java: [Clique para Baixar](https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-2/UltimateJavaCheatSheet.pdf)
